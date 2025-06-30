@@ -92,7 +92,8 @@ Java 기반 콘솔 애플리케이션
 ## 시연 영상
 
 ### 운영자 시연 영상
-![운영자 시연 영상](https://youtu.be/DnbbNYpPrYQ)
+[![운영자 시연 영상](https://img.youtube.com/vi/DnbbNYpPrYQ/0.jpg)](https://youtu.be/DnbbNYpPrYQ)
 
 ### 회원 시연 영상
-![회원 시연 영상](https://youtu.be/-fxCqHAQcbg)
+[![회원 시연 영상](https://img.youtube.com/vi/-fxCqHAQcbg/0.jpg)](https://youtu.be/-fxCqHAQcbg)
+
