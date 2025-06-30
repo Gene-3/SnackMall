@@ -52,10 +52,10 @@ Java 기반 콘솔 애플리케이션
 ### 4.코드 리뷰
 
 코드 리뷰 1
-![코드 리뷰 1](./images/.CodeReview01.png)
+![코드 리뷰 1](./images/CodeReview01.png)
 
 코드 리뷰 2
-![코드 리뷰 1](./images/.CodeReview02.png)
+![코드 리뷰 1](./images/CodeReview02.png)
 ---
 
 ## 주요 기능
