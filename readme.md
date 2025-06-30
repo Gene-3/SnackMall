@@ -67,10 +67,10 @@ Java 기반 콘솔 애플리케이션
 ## 4. 코드 리뷰
 
 코드 리뷰 1  
-<img src="./images/CodeReview01.png" width="800" />
+<img src="./images/CodeReview01.png" width="1000" />
 
 코드 리뷰 2  
-<img src="./images/CodeReview02.png" width="800" />
+<img src="./images/CodeReview02.png" width="1000" />
 
 ---
 
